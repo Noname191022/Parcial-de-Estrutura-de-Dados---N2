@@ -1,0 +1,4 @@
+Questao 1 - R= b) Um ponto armazena o endereço de memoria de uma variavel.
+Questão 2 - R= d) Acessa (dereferencia) o valor armazenado no endereço de memoria para o qual o ponteiro aponta.
+Questao 3 - R= c) para alocar um bloco de memoria de um tamanho especificado em bytes e retornar um ponteiro para o inicio desse bloco.
+Questao 4 - R= A chamada correta é -modifica(&num, 10); porque&num envia o endereço da variavel num para a função
